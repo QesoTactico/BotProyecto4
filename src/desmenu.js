@@ -19,7 +19,7 @@ ${prefix}play https://www.youtube.com/xxxxxxxxxxxxx
 
 *COMUNICADO*
 
-*ytmp4 y *ytmp3 estan en mantenimiento, muy pronto sacare una actualizacion de esos comandos mas renovado :)
+*ytmp4 y *ytmp3 estan en mantenimiento, en una nueva edición el dueño lo agregará xd
 
 ══════════════
     
