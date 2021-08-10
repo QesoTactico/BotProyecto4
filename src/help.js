@@ -1,44 +1,48 @@
 const help = (prefix) => {
 	return `
 
-⌜ *ѕнαηвσт ву ѕнαη∂υу* ⌟  
+🔴⌜ *SPL BOT BY GUABARBAS* ⌟ 🔴 
 
-◉ *INFORMACION*
+📢 *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: ѕнαη∂υу™ 
-   ○ Como instalar el bot: https://www.youtube.com/watch?v=2LQSzEbpJ-M
-   ○ Instagram: https://www.instagram.com/thepavos
+   ○ Modificado por: GUABARBAS 
+   ○ Grupo de Facebook: https://www.facebook.com/groups/690411545186811/
+   ○ Instagram de Angel: https://www.instagram.com/angel.fcmtz/
 
 
-◉ *NUEVOS COMANDOS*
-○ ${prefix}levelmenu
-Level para tus grupos
-○ ${prefix}antimenu
-Su nombre lo dice todo (antilink)
-○ ${prefix}otak
-Monas chinas
-○ ${prefix}shantera
-Interactua con el bot
+📌 *COMANDOS* 📌
 
-◉ *NUEVOS MENUS*
-○ ${prefix}juegos
-Divierte con tus amigos :)
-○ ${prefix}desmenu
-Descargar musica y videos de YT
-○ ${prefix}version
-Conoce la versión de tu bot
-○ ${prefix}welmenu
-Comandos de bienvedia a grupos
+🔔 ${prefix}levelmenu
+Con este comando podrás ver las opciones que hay con los levels.
 
-◉ *PARA USAR EL BOT*
+🔔 ${prefix}antimenu
+Comando para poder ver los tipos de Antilinks.
+
+🔔 ${prefix}otak
+Monas chinas XD
+
+🔔 ${prefix}shantera
+Comandos para poder interactuar con el bot
+
+📌 *NUEVOS MENUS* 📌
+🔔 ${prefix}juegos
+
+🔔 ${prefix}desmenu
+Descargar musica de YouTube.
+🔔 ${prefix}version
+Conoce la versión del bot.
+🔔 ${prefix}welmenu
+Comandos de bienvedia a grupos.
+
+📌 *PARA USAR EL BOT* 📌
 Registrate con el comando ${prefix}daftar y tu nombre
 
-◉ *RESUELVE TUS DUDAS*
+📢 *RESUELVE TUS DUDAS*
   ║
   ╠ ○ ${prefix}creador
   ╚ Dudas o problemas aqui
 
-◉ *CREAR STICKERS*
+📢 *CREAR STICKERS*
   ║
   ╠ ○ ${prefix}sticker
   ╠ ○ ${prefix}attp
@@ -46,26 +50,26 @@ Registrate con el comando ${prefix}daftar y tu nombre
   ╠ ○ ${prefix}stickergif
   ╚ 6 segundos de video
 
-◉ *CONVERTIDORES*
+📢 *CONVERTIDORES*
   ║
   ╠ ○ ${prefix}toimg
   ╠ De sticker a JPG
   ╠ ○ ${prefix}tomp3
   ╚ De video a MP3
 
-◉ *AUDIO*
+📢 *AUDIO*
   ║
   ╠ ○ ${prefix}idioma
   ╚ ○ ${prefix}tts es (mas texto)
 
-◉ *OTROS*
+📢 *OTROS*
   ║
   ╠ ○ ${prefix}wame
   ╠ Link de Whatsapp
   ╠ ○ ${prefix}qrcode
   ╚ Coloca un texto
 
-◉ *GRUPOS*
+📢 *GRUPOS*
   ║
   ╠ ○ ${prefix}closegc
   ╠ Cerrar el grupo solo admins
@@ -84,17 +88,14 @@ Registrate con el comando ${prefix}daftar y tu nombre
 
 Para usar estas funciones el bot necesita admin
   
-◉ *NSWF* 
+📢 *NSWF* 
   ║
   ╚ ○ ${prefix}nsfwmenu
 
 Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desactivar los NSFW coloque ${prefix}nsfw 0
 
 
-No te olvides de seguirme en instagram flaco ;)
-
-
-ву ѕнαη∂υу
+Eso es todo pa, SPLBOT te desea un lindo día ;)
 
 
 ⌜ *ごきげんよう :)* ⌟ 
