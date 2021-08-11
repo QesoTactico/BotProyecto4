@@ -1493,12 +1493,28 @@ break
                 if (budy.includes(`Hola`)) {
                   reply(`Hola amor uwuuwuwu <3`)
                   }
-		if (budy.includes(`Todo bien`)) {
-                  reply(`Si carilo <3`)
+		if (budy.includes(`Todo bien?`)) {
+                  reply(`Si cariño <3`)
                   }
-
+		if (budy.includes(`Israel`)) {
+                  reply(`IsraGOOOOOOOOOOOOOOOOOOOOOOOOOD🇮🇱🇮🇱🇮🇱🇮🇱🇮🇱🇮🇱🇮🇱🇮🇱🇮🇱🇮🇱🇮🇱🇮🇱`)
+                  }								
+		if (budy.includes(`Bot`)) {
+                  reply(`Que pasa pa`)
+                  }
+		if (budy.includes(`Erick`)) {
+                  reply(`Erick gai👹👹👈🏿👈🏿👈🏿🔥🔥🔥🔥`)
+                  }		
+		if (budy.includes(`Shantal`)) {
+                  reply(`Para todos una simple foto de un poto, para mí una vida`)
+                  }
+								
+		if (budy.includes(`PibeAsaGod`)) {
+                  reply(` Más asaGOD que nunca🩴🩴🩴🩴🔥🔥🔥🔥`)
+                  }
+					
 		if (budy.includes(`Buenos dias`)) {
-                  reply(`Buenos Dias trolos de mierda`)
+                  reply(`Buenos Dias Culona`)
                   }
 
 		if (budy.includes(`Bot gay`)) {
@@ -1513,8 +1529,8 @@ break
                   reply(`Horny`)
                   }
 					
-		if (budy.includes(`opa`)) {
-                  reply(`opaaaaaaaaa`)
+		if (budy.includes(`OPA`)) {
+                  reply(`Lo fumo con falopa`)
                   }
                  
 		if (budy.includes(`Fua`)) {
